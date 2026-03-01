@@ -1,0 +1,5 @@
+{
+  "name": "VoxAI - Emotion-Aware Studio TTS",
+  "description": "A professional-grade AI voice studio that detects emotions and generates studio-quality speech using Gemini TTS.",
+  "requestFramePermissions": ["microphone"]
+}
